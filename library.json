@@ -1,0 +1,23 @@
+{
+    "name": " Basic PWM ESP32 Custom Library v.1.0",
+    "version": "1.0.0",
+    "description": "Basic PWM ESP32 Custom Library v.1.0",
+    "keywords": "PWM, Pulse Width Modulation, Esp32",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/username/hello-world.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Dwi Setia Fardhana",
+        "email": "dwi.setia.fardhana",
+        "url": "https://www.bengkelti.com",
+        "maintainer": true
+      }
+    ],
+    "license": "MIT",
+    "frameworks": "*",
+    "platforms": "*"
+  }
